@@ -1,4 +1,4 @@
-# Some System Settings to consider aaa
+# Some System Settings to consider
 ## For CodeBuild Environment, Use the settings as below
 OS - Amazon Linux 2
 Runtime - Standard
