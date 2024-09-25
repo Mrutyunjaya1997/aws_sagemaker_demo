@@ -10,7 +10,7 @@ hooks:
       runas: root
 
   BeforeInstall:
-    - location: dos2unix scripts/install_dependencies.sh
+    - location: scripts/install_dependencies.sh
       timeout: 300
       runas: root
 
